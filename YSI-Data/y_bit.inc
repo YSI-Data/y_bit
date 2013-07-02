@@ -110,10 +110,10 @@ Compile options:
 </remarks>
 \**--------------------------------------------------------------------------**/
 
-#include "..\YSI-Internal\y_version"
-#include "..\YSI-Core\y_debug"
-#include "..\YSI-Core\y_utils"
-#include "..\YSI-Core\y_cell"
+#include "..\YSI_Internal\y_version"
+#include "..\YSI_Core\y_debug"
+#include "..\YSI_Core\y_utils"
+#include "..\YSI_Core\y_cell"
 
 // This is redefined below, don't worry.  It's like this so the function
 // prototypes can use a familiar syntax.
