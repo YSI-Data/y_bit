@@ -1,0 +1,9 @@
+{
+	"user": "YSI-Data",
+	"repo": "y_bit",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+	]
+}
+
